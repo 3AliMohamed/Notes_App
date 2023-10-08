@@ -1,0 +1,15 @@
+{
+  "welcome" : "welcome"  ,
+  "homepage" : "homepage",
+  "note" : "Note",
+  "login":  "Login",
+  "email:" : "Email:",
+  "password:": "Password:",
+  "save" :  "Save" ,
+  "add"  : "Add",
+  "cancel": "Cancel",
+  "add note": "Add Note",
+  "edit note": "Edit Note",
+  "change language": "Change Language",
+  "logout": "Logout"
+}
